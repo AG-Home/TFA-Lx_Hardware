@@ -8,3 +8,6 @@
 _autosave-*
 *.tmp
 fp-info-cache
+*.lck
+*backups
+*prl
